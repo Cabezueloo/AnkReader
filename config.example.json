@@ -1,0 +1,11 @@
+{
+    "last_sync_timestamp": 0,
+    "kindle_mount_base": "/run/media",
+    "vocab_db_relative_path": "system/vocabulary/vocab.db",
+    "dictionary_api_url": "https://api.dictionaryapi.dev/api/v2/entries/en",
+    "pixabay_api_key": "",
+    "deepl_api_key": "",
+    "target_deck_prefix": "Kindle::",
+    "note_model_name": "AnkReader Vocabulary",
+    "show_mobile_notifications": true
+}

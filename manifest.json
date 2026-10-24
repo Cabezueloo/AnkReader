@@ -1,0 +1,9 @@
+{
+    "package": "ankreader",
+    "name": "AnkReader – Kindle Vocabulary Importer",
+    "version": "1.0.0",
+    "author": "angel",
+    "homepage": "",
+    "conflicts": [],
+    "min_point_version": 50
+}

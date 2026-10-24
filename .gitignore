@@ -1,0 +1,20 @@
+# Local configuration may contain API keys and sync state.
+config.json
+
+# Python environments and generated files.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Test, type-checker, and coverage artifacts.
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Operating-system and editor files.
+.DS_Store
+Thumbs.db
+*.log
